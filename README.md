@@ -1,2 +1,2 @@
-# Assignment-2
+# Python Assignment
 Ayush Gupta
