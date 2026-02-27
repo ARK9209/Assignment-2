@@ -1,6 +1,6 @@
 # Demonstrate List slicing
 # List
-l1 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+l1 = list(range(1,11))
 # Extracted first five elements
 Ext= l1[0:5]
 # Reversed extracted elements
